@@ -1,0 +1,11 @@
+URL: ["https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd",
+"https://playertest.longtailvideo.com/adaptive/alt-audio-no-video/sintel/playlist.m3u8",
+"https://playertest.longtailvideo.com/adaptive/alt-audio-no-video/angel-one.m3u8",
+"https://dash.akamaized.net/dash264/TestCasesHEVC/1b/5/MultiRate.mpd",
+"https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel-tiled-thumbnails-numbered.ism/.mpd"]
+#URL:https://livesim.dashif.org/livesim/mup_30/testpic_2s/Manifest.mpd
+#URL:https://livesim.dashif.org/livesim/segtimeline_1/testpic_2s/Manifest.mpd
+#URL:https://demo.unified-streaming.com/k8s/live/scte35.isml/.mpd
+#URL:https://akamaibroadcasteruseast.akamaized.net/cmaf/live/657078/akasource/out.mpd
+#URL:https://dash.akamaized.net/dash264/TestCases/1a/sony/SNE_DASH_SD_CASE1A_REVISED.mpd    
+#URL: https://dash.akamaized.net/dash264/TestCases/5a/nomor/1.mpd

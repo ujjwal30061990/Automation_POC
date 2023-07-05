@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.10.4 on win32)" generated="20230627 16:37:36.755" rpa="false" schemaversion="3">
+<suite id="s1" name="Automation POC" source="D:\Automation_POC">
+<suite id="s1-s1" name="POC" source="D:\Automation_POC\POC.robot">
+<test id="s1-s1-t1" name="StreamPlay" line="47">
+<kw name="Stream Play" library="config">
+<msg timestamp="20230627 16:37:40.459" level="INFO">url  ['https://dash.akamaized.net/akamai/bbb_30fps/bbb_30fps.mpd', 'https://playertest.longtailvideo.com/adaptive/alt-audio-no-video/sintel/playlist.m3u8', 'https://playertest.longtailvideo.com/adaptive/alt-audio-no-video/angel-one.m3u8', 'https://dash.akamaized.net/dash264/TestCasesHEVC/1b/5/MultiRate.mpd', 'https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel-tiled-thumbnails-numbered.ism/.mpd']</msg>
+<status status="PASS" starttime="20230627 16:37:37.191" endtime="20230627 16:37:40.461"/>
+</kw>
+<status status="PASS" starttime="20230627 16:37:37.187" endtime="20230627 16:37:40.466"/>
+</test>
+<status status="PASS" starttime="20230627 16:37:36.860" endtime="20230627 16:37:40.475"/>
+</suite>
+<status status="PASS" starttime="20230627 16:37:36.801" endtime="20230627 16:37:40.491"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Automation POC">Automation POC</stat>
+<stat pass="1" fail="0" skip="0" id="s1-s1" name="POC">Automation POC.POC</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
